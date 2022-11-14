@@ -1,0 +1,92 @@
+body {
+    background: url(../img/conduccion-color-verde-neon-motocicleta-carretera-vista-frontal_114579-5033.webp);
+    background-size: 100%;
+}
+
+section{
+    width: 600px;
+    background: #b300ffd8;
+    margin: 100px auto;
+    padding: 60px 0;
+    background: url(../img/conducir-motocicleta-verde-carretera_114579-5048.webp);
+}
+p{
+   
+    border-radius: 3px;
+    transition:  (0.5s);
+}
+p:hover{
+    transform: scale(1.2);
+    background-color: #006868;
+}
+#tabla-usuarios h1 {
+    color: #ffffff;
+    font-size: 46px;
+    margin-bottom: 25px;
+}
+
+#tabla-usuarios p {
+    color: #ffffff;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+h1 {
+    color: #FDFEFE; /*Color del titulo (h1)*/
+    font-size: 46px; /*Tamaño de la fuente*/
+    margin-bottom: 25px;
+}
+
+p, label {
+    color: #ffffff;
+}
+
+section form { 
+    width: 540px;
+    margin: 0 auto;
+}
+
+.btn-felipe {
+    background:  #006868 ;
+    color: #ffffff;
+}
+
+.btn-white {
+    background: #006868 ;
+    color: #ffffff;
+}
+
+.btn-felipe:hover {
+    background:  #00bbffa8;
+    color: #ffffff;
+}
+
+.btn-white:hover{
+    background: #00bbffa8;
+    color: #ffffff;
+}
+
+
+#tabla-usuarios{
+    background: url(../img/conducir-motocicleta-verde-carretera_114579-5048.webp);
+    background-size: 100%;
+    padding: 40px 60px;
+    box-shadow: 2px 2px 3px 0px #999999;
+    border-radius: 20px;
+    width: 90%;
+}
+
+td{
+    color: #ffffff;
+}
+
+th {
+    color: #000000;
+}
+
+#white{
+    color: #ffffff;
+}
+thead{
+    background: #D0D3D4;
+}
